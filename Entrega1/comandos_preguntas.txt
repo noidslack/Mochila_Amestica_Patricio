@@ -1,0 +1,6 @@
+#!/bin/bash
+
+mkdir peliculas
+mkdir peliculas/Intantiles peliculas/Accion peliculas/Terror peliculas/Comedia peliculas/Romanticas
+touch peliculas/Intantiles/Intensamente.txt peliculas/Intantiles/"La dama y el vagabundo".xls peliculas/Intantiles/Madagascar.js peliculas/Intantiles/Pocahontas.jpg peliculas/Intantiles/Cars.jpg
+touch peliculas/Accion/"Rapido y furioso".pdf peliculas/Accion/"Smooth criminal".xls peliculas/Accion/"Mision Imposible".txt peliculas/Accion/"Los vengadores".jpg
